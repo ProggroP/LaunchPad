@@ -31,3 +31,7 @@ pebble install --emulator emery
 ```
 
 The repository can also be imported into CloudPebble as is.
+
+## License
+
+MIT License, see [LICENSE](LICENSE).
