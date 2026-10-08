@@ -1,0 +1,36 @@
+{
+    "author": "Axel Kark",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "launchpad",
+    "pebble": {
+        "displayName": "LaunchPad",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "dummy",
+            "idx",
+            "name",
+            "provider",
+            "status",
+            "when",
+            "total",
+            "error"
+        ],
+        "projectType": "moddable",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "12a35bde-6db9-4299-bcc0-3f3ba1dab99b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.1.1"
+}
